@@ -3,6 +3,7 @@
 Project Report: Annual Sales Report for Vrinda Store (2022)
 
  ##Executive Summary
+ 
 This report presents an analysis of the annual sales data for Vrinda Store for the year 2022. The objective is to understand customer behavior and identify opportunities for increasing sales in 2023. Key insights include a higher purchasing rate among women, significant contributions from specific states, and the impact of different sales channels.
 
  #2. Introduction
